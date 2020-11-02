@@ -2,6 +2,14 @@
 
 Simple example to spin up azure transit firenet and spoke.
 
+### Workflow
+
+Replace values with REPLACE_ME in terraform.tfvars
+
+- ```terraform init```
+- ```terraform plan```
+- ```terraform apply --auto-approve```
+
 ### Software 
 
 Component | Version
